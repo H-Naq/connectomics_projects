@@ -1,0 +1,12 @@
+{
+    "ADHD": {
+        "Number_of_Nodes": 935,
+        "Number_of_Edges": 43711,
+        "Density": 0.1001064938336635
+    },
+    "Neurotypical": {
+        "Number_of_Nodes": 950,
+        "Number_of_Edges": 45600,
+        "Density": 0.101159114857745
+    }
+}

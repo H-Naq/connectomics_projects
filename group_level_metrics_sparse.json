@@ -1,0 +1,14 @@
+{
+    "ADHD_Combined_Inattentive_Sparse": {
+        "Global_Efficiency": 0.48131109558699436,
+        "Avg_Clustering": 0.5437123282799244,
+        "Avg_Shortest_Path": 2.31992350765496,
+        "Is_Connected": true
+    },
+    "Neurotypical_Sparse": {
+        "Global_Efficiency": 0.48023707318674536,
+        "Avg_Clustering": 0.5488447114165482,
+        "Avg_Shortest_Path": 2.324478952914425,
+        "Is_Connected": true
+    }
+}

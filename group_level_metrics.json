@@ -1,0 +1,14 @@
+{
+    "ADHD_Combined_Inattentive": {
+        "Global_Efficiency": 1.0,
+        "Avg_Clustering": 1.0,
+        "Avg_Shortest_Path": 1.0,
+        "Is_Connected": true
+    },
+    "Neurotypical": {
+        "Global_Efficiency": 1.0,
+        "Avg_Clustering": 1.0,
+        "Avg_Shortest_Path": 1.0,
+        "Is_Connected": true
+    }
+}

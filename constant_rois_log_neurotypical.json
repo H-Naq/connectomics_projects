@@ -1,0 +1,33 @@
+{
+    "tseries_rois_X_7407032_run1.mat": [
+        520
+    ],
+    "tseries_rois_X_1177160_run1.mat": [
+        520
+    ],
+    "tseries_rois_X_3655623_run1.mat": [
+        13
+    ],
+    "tseries_rois_X_2559537_run1.mat": [
+        545
+    ],
+    "tseries_rois_X_1494102_run1.mat": [
+        537
+    ],
+    "tseries_rois_X_7011503_run1.mat": [
+        537,
+        545,
+        683
+    ],
+    "tseries_rois_X_1794770_run1.mat": [
+        881,
+        887,
+        889,
+        924
+    ],
+    "tseries_rois_X_9578631_run1.mat": [
+        876,
+        881,
+        887
+    ]
+}
